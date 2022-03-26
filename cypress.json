@@ -1,0 +1,8 @@
+{
+  "watchForFileChanges": false,
+  "env":
+  {
+    "url": "http://automationpractice.com/index.php?id_category=3&controller=category"
+  }
+
+}
